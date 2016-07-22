@@ -15,6 +15,10 @@ npm run server - webserver see build static files
 
 ## To use on Windows -
 
+Install local version of live-reload
+
+    npm install --save live-reload
+
 add
 
     npm install globstar --global
